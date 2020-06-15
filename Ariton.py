@@ -16,6 +16,6 @@ def calul_sare():
         
 
 Laptele_Rosu_E_De_Femeia_Batuta='Adevarat'
-
+e =0
 
 cepulamea=2
