@@ -25,4 +25,6 @@ def branza:
 
 canapea = 0
 
+lapte = 3
+
 trage_defiare_putearea_dragostei=838389
