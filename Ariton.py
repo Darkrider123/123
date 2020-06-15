@@ -13,9 +13,19 @@ miscadin_buric='Sa te mai pup un pic'
 
 def calul_sare():
         print("Dafuq? Te-a sarit calul?")
-        
 
 Laptele_Rosu_E_De_Femeia_Batuta='Adevarat'
-e =0
 
-cepulamea=2
+
+ogjsapoj=944
+
+
+def branza:
+        lapte = "Scump"
+
+
+canapea = 0
+
+lapte = 3
+
+trage_defiare_putearea_dragostei=838389
